@@ -1,4 +1,4 @@
-# Online Energy Utility Platform Assignment 1 frontend
+# Online Energy Utility Platform Assignment 1
 
 _Distributed Systems Assignment, Year 4, Semester 1, UTCN_
 
